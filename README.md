@@ -3,23 +3,15 @@
 
 *h1 {
     color: red;
-    font-size: 5em;
-}
-
+    font-size: 5em;}
 body {
-  background-color: lightblue;
-}
+  background-color: lightblue;}
 
 *h1 {
   color: purple;
-  margin-left: 30px;
-  
-  
-}
+  margin-left: 30px;}
 
-
-
-#putting in css link 
+# putting in css link 
 *<link rel="stylesheet" href="styles.css">
 
 # how Css works
