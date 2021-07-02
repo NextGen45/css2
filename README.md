@@ -12,7 +12,7 @@ body {
   margin-left: 30px;}
 
 # putting in css link 
-*<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles.css">
 
 # how Css works
 
